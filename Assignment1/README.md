@@ -45,23 +45,13 @@ Example Output
 After running the program, you should see output similar to the following:
 
 Canvas has the following random shapes:
-
-Shape 1: RECTANGLE 4x10
-
-Shape 2: SQUARE 50x50
-
-Shape 3: CIRCLE 100
-
-Shape 4: OVAL 100x40
-
-Shape 5: OVAL 10x11
-
-Shape 6: CIRCLE 10
-
-Shape 7: SQUARE 1x1
-
-Shape 8: RECTANGLE 1x2
-
-Shape 9: RECTANGLE 2x2
-
-Shape 10: CIRCLE 11
+Shape 1: CIRCLE 32
+Shape 2: SQUARE 46x46
+Shape 3: RECTANGLE 4x18
+Shape 4: RECTANGLE 71x89
+Shape 5: OVAL 91x82
+Shape 6: CIRCLE 78
+Shape 7: OVAL 2x76
+Shape 8: OVAL 8x36
+Shape 9: RECTANGLE 82x69
+Shape 10: RECTANGLE 63x94
