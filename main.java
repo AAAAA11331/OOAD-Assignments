@@ -299,7 +299,7 @@ public class main {
     public static void main(String[] args) {
         CCanvas canvas = new CCanvas();
 
-        System.out.println("Canvas has the following random shapes:\n");
+        System.out.println("Canvas has the following random shapes:");
 
         for (int i = 0; i < canvas.getShapes().size(); i++) {
             CShape shape = canvas.getShapes().get(i);
