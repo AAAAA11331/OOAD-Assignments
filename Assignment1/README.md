@@ -39,7 +39,7 @@ To run the program, follow these steps:
 
 2. **Run the program**
    ```bash
-   java -jar Assignment1/Assignment1.jar
+   java -jar OOAD-Assignments/Assignment1/Assignment1.jar
 
 Example Output
 After running the program, you should see output similar to the following:
