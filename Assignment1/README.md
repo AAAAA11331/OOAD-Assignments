@@ -38,6 +38,7 @@ To run the program, follow these steps:
    git clone https://github.com/AAAAA11331/OOAD-Assignments.git
 
 2. **Run the program**
+   ```bash
    java -jar Assignment1/Assignment1.jar
 
 Example Output
