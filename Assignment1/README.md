@@ -35,7 +35,7 @@ To run the program, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/shape-generator.git](https://github.com/AAAAA11331/OOAD-Assignments.git)https://github.com/AAAAA11331/OOAD-Assignments.git
+   git clone https://github.com/AAAAA11331/OOAD-Assignments.git
 
 2. **Run the program**
    java -jar Assignment1/Assignment1.jar
